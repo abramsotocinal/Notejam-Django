@@ -3,7 +3,6 @@ Notejam Django
 
 Project forked from https://github.com/komarserjio/notejam
 
-Specifically just Django. 
+Upgraded from Django 1.4 to 1.11
 
-Updated from Django 1.4 to 1.11
-
+Updating README soon
